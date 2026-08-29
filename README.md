@@ -102,9 +102,8 @@ Streamlit Dashboard
 
 
 
+## **🛠️ Technologies Used**
 
-
-## 🛠️ Technologies Used
 
 | Technology | Purpose |
 |---|---|
