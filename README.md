@@ -99,7 +99,7 @@ Random Forest Classifier
 Trend Prediction
         ↓
 Streamlit Dashboard
-```text
+
 
 
 
