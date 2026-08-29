@@ -104,9 +104,10 @@ Streamlit Dashboard
 
 
 
-**## Technologies Used**
+## 🛠️ Technologies Used
 
 | Technology | Purpose |
+|---|---|
 | Python | Programming Language |
 | Pandas | Data Processing |
 | NumPy | Numerical Computation |
