@@ -82,7 +82,7 @@ This preserves the chronological order of the stock market data.
 ##  Project Workflow
 
 The project follows these steps:
-```text
+
 Historical Stock Data
         ↓
 Data Collection
@@ -98,7 +98,7 @@ Random Forest Classifier
 Trend Prediction
         ↓
 Streamlit Dashboard
-```text
+
 
 
 
