@@ -134,7 +134,7 @@ Trend Prediction
 Streamlit Dashboard
 
 
-## Technologies Used
+**## Technologies Used**
 
 | Technology | Purpose |
 | Python | Programming Language |
