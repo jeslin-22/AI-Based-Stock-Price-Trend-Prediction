@@ -78,45 +78,10 @@ The historical dataset is divided using a time-based split:
 
 This preserves the chronological order of the stock market data.
 
-##  Machine Learning Approach
-
-This project uses a **Random Forest Classifier** to predict the next-day stock price trend.
-
-### Input Features
-
-The model uses the following features:
-
-- Open Price
-- High Price
-- Low Price
-- Closing Price
-- Trading Volume
-- Daily Return
-- 5-Day Moving Average
-- 20-Day Moving Average
-- Volatility
-- RSI (Relative Strength Index)
-
-### Target Variable
-
-The target is based on the next day's closing price:
-
-- `1` → Price goes **UP**
-- `0` → Price goes **DOWN**
-
-The historical dataset is divided using a time-based split:
-
-- **80%** → Training data
-- **20%** → Testing data
-
-This preserves the chronological order of the stock market data.
-
-
-
 ##  Project Workflow
 
 The project follows these steps:
-```text
+
 Historical Stock Data
         ↓
 Data Collection
@@ -134,7 +99,8 @@ Trend Prediction
 Streamlit Dashboard
 
 
-## Technologies Used
+
+##   Technologies Used
 
 | Technology | Purpose |
 | Python | Programming Language |
@@ -151,7 +117,7 @@ Streamlit Dashboard
 
 
 
-##  Project Structure
+ ##  Project Structure
 ```text
 AI-Based-Stock-Price-Trend-Prediction/
 │
@@ -229,7 +195,7 @@ deactivate
 - The model predicts the trend, not the exact future stock price.
 - Market conditions can change quickly, which may affect prediction accuracy.
 
-##Future Scope
+##### ## Future Scope
 
 - Improve prediction accuracy using advanced Machine Learning and Deep Learning models.
 - Add real-time stock market data.
